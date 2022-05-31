@@ -1,0 +1,22 @@
+.home__btn {
+    height: 56px;
+    width: 200px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: inherit;
+    height: 100vh;
+}
+
+.header {
+    margin: 0;
+    font-size: 13rem;
+}
+
+.desc {
+    font-size: 2rem;
+}
